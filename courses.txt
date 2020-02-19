@@ -1,0 +1,23 @@
+2014an1540 COL106 A Data Structures and Algorithms
+2015cs2622 COL106 C Data Structures and Algorithms
+2015cs2622 COL203 F Cryptography
+2015an2632 COL203 A Cryptography
+2015cs1540 COL203 Aminus Cryptography
+2014cs1544 COL203 I Cryptography
+2014cs1544 COL305 A Statistical methods 
+2014an2117 COL106 A Data Structures and Algorithms
+2014cs1235 COL203 A Cryptography
+2014an1117 COL106 I Data Structures and Algorithms
+2014cs1535 COL106 A Data Structures and Algorithms
+2014cs1235 COL106 Aminus Data Structures and Algorithms
+2014cs1535 COL203 I Cryptography
+2014an2817 COL106 A Data Structures and Algorithms
+2014cs4235 COL106 A Data Structures and Algorithms
+2014cs4235 COL113 A Distributed Systems
+2015an2117 COL106 B Data Structures and Algorithms
+2015cs1325 COL203 B Cryptography
+2015cs1285 COL106 Bminus Data Structures and Algorithms
+2015cs1285 COL203 B Cryptography
+2015an2887 COL106 B Data Structures and Algorithms
+2015cs1325 COL106 Bminus Data Structures and Algorithms
+2015cs1325 COL305 B Statistical methods
